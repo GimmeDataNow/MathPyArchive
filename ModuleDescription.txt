@@ -1,0 +1,8 @@
+The exercise expects you to add two numbers together. The format is as follows: a + b = ___
+The exercise expects you to subract two numbers. The format is as follows: a - b = ___
+ccccccccccccccc
+ddddddddddddddd
+eeeeeeeeeeeeeee
+fffffffffffffff
+ggggggggggggggg
+hhhhhhhhhhhhhhh

@@ -1,0 +1,8 @@
+1 - addition
+2 - subtraction
+3 - addition and subtraction
+4 - multiplication
+5 - division
+6 - multiplication and division
+7 - fill to x with addition
+8 - fill to x with substraction
